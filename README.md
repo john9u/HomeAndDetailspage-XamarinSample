@@ -1,0 +1,1 @@
+# HomeAndDetailspage-XamarinSample
